@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "PulseFit",
+    "slug": "pulsefit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0F1115",
+    "splash": {
+      "backgroundColor": "#0F1115"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.yourname.pulsefit"
+    },
+    "android": {
+      "package": "com.yourname.pulsefit"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "name": "PulseFit",
+      "shortName": "PulseFit",
+      "backgroundColor": "#0F1115",
+      "themeColor": "#0F1115"
+    }
+  }
+}
